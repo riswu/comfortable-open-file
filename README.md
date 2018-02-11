@@ -40,5 +40,5 @@ Available commands for binding:
 - `comfortable-open-file:removeProjectFolder`: open project folder
 - `core:move-up`: move up
 - `core:move-down`: move down
-- `core:conform`: comform
+- `core:confirm`: confirm
 - `core:cancel`: cancel
