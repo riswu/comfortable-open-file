@@ -1,7 +1,7 @@
 {
   "name": "comfortable-open-file",
   "main": "./lib/comfortable-open-file",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Moving directories, Atom users can comfortably open files.",
   "keywords": [
     "atom",
