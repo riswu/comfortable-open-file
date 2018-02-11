@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle comfortable-open-file",
+        "command": "comfortable-open-file:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "comfortable-open-file",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "comfortable-open-file:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

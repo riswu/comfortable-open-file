@@ -1,0 +1,9 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-c": "comfortable-open-file:toggle"
+  },
+  ".comfortable-open-file": {
+    "ctrl-+": "comfortable-open-file:add-project-folder",
+    "ctrl--": "comfortable-open-file:remove-project-folder"
+  }
+}

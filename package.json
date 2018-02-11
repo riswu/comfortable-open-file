@@ -1,0 +1,39 @@
+{
+  "name": "comfortable-open-file",
+  "main": "./lib/comfortable-open-file",
+  "version": "0.1.0",
+  "description": "Moving directories, you can comfortably open files, create files, add project directories and remove project directories.",
+  "keywords": [
+    "atom",
+    "open",
+    "file",
+    "directory",
+    "new",
+    "create",
+    "add",
+    "remove",
+    "project"
+  ],
+  "activationCommands": {
+    "atom-workspace": "comfortable-open-file:toggle"
+  },
+  "repository": "https://github.com/riswu/comfortable-open-file",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "consumedServices": {
+    "file-icons.element-icons": {
+      "versions": {
+        "1.0.0": "consumeElementIcons"
+      }
+    }
+  },
+  "dependencies": {
+    "atom-select-list": "^0.7.0",
+    "fs-plus": "^3.0.2",
+    "fuzzaldrin": "^2.1.0",
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {}
+}
