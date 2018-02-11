@@ -2,17 +2,12 @@
   "name": "comfortable-open-file",
   "main": "./lib/comfortable-open-file",
   "version": "0.1.0",
-  "description": "Moving directories, you can comfortably open files, create files, add project directories and remove project directories.",
+  "description": "Moving directories, Atom users can comfortably open files.",
   "keywords": [
     "atom",
     "open",
     "file",
-    "directory",
-    "new",
-    "create",
-    "add",
-    "remove",
-    "project"
+    "directory"
   ],
   "activationCommands": {
     "atom-workspace": "comfortable-open-file:toggle"
