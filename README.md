@@ -37,7 +37,7 @@ Available commands for binding:
 
 - `comfortable-open-file:toggle`: open/close
 - `comfortable-open-file:add-project-folder`: add project folder
-- `comfortable-open-file:removeProjectFolder`: open project folder
+- `comfortable-open-file:removeProjectFolder`: remove project folder
 - `core:move-up`: move up
 - `core:move-down`: move down
 - `core:confirm`: confirm
