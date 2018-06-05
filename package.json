@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "atom-select-list": "^0.7.0",
+    "event-emitter": "^0.3.5",
     "fs-plus": "^3.0.2",
     "fuzzaldrin": "^2.1.0",
     "mkdirp": "^0.5.1"
