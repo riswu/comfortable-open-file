@@ -3,6 +3,7 @@
     "ctrl-alt-c": "comfortable-open-file:toggle"
   },
   ".comfortable-open-file": {
+    "ctrl-l": "comfortable-open-file:move-up-directory",
     "ctrl-+": "comfortable-open-file:add-project-folder",
     "ctrl--": "comfortable-open-file:remove-project-folder"
   }

@@ -2,9 +2,9 @@
 
 Comfortable Open File is a package like
 [Advanced Open File](https://github.com/Osmose/advanced-open-file).
-The Package helps Atom users to open files.
-Moving directories, Atom user can comfortably open files,
-create files, add project directories and remove project directories.
+The package helps Atom users to open files.
+Atom users can comfortably open files,
+create files, add project folders and remove project folders.
 
 ![Screenshot of plugin](https://user-images.githubusercontent.com/21008974/36074882-bdecee48-0f89-11e8-8b22-016614704c01.png)
 
@@ -24,18 +24,16 @@ You can open the selected file or move the directory by pressing <kbd>enter</kbd
 
 Other features:
 
-- <kbd>ctrl-+</kbd>: Add the selected directory to project folder.
-- <kbd>ctrl--</kbd>: Remove the selected directory from project folder.
-
-If you have installed [File Icons](https://github.com/file-icons/atom), icons change.
-
-![Screenshot of plugin](https://user-images.githubusercontent.com/21008974/36074883-be27ea0c-0f89-11e8-9230-b495e8e434ef.png)
+- <kbd>ctrl-l</kbd>: Move to the parent directory of the current directory.
+- <kbd>ctrl-+</kbd>: Add the selected directory to project folders.
+- <kbd>ctrl--</kbd>: Remove the selected directory from project folders.
 
 ## Keybindings
 
 Available commands for binding:
 
-- `comfortable-open-file:toggle`: open/close
+- `comfortable-open-file:toggle`: toggle
+- `comfortable-open-file:move-up-directory`: move up directory
 - `comfortable-open-file:add-project-folder`: add project folder
 - `comfortable-open-file:removeProjectFolder`: remove project folder
 - `core:move-up`: move up

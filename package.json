@@ -1,8 +1,8 @@
 {
   "name": "comfortable-open-file",
-  "main": "./lib/comfortable-open-file",
+  "main": "./lib/main",
   "version": "0.3.5",
-  "description": "Moving directories, Atom users can comfortably open files.",
+  "description": "Atom users can comfortably open files.",
   "keywords": [
     "atom",
     "open",
@@ -17,15 +17,10 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "consumedServices": {
-    "file-icons.element-icons": {
-      "versions": {
-        "1.0.0": "consumeElementIcons"
-      }
-    }
-  },
+  "consumedServices": {},
   "dependencies": {
     "atom-select-list": "^0.7.0",
+    "etch": "^0.14.0",
     "event-emitter": "^0.3.5",
     "fs-plus": "^3.0.2",
     "fuzzaldrin": "^2.1.0",

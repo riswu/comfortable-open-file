@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle comfortable-open-file",
+        "label": "Toggle Comfortable Open File",
         "command": "comfortable-open-file:toggle"
       }
     ]
@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "comfortable-open-file",
+          "label": "Comfortable Open File",
           "submenu": [
             {
               "label": "Toggle",
